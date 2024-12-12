@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## A project to create a CosmWasm-compatible x/wasm module without the Rust/Cgo complications.
 <!--
 
 **Here are some ideas to get you started:**
